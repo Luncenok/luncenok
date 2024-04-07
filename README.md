@@ -1,5 +1,25 @@
 # 💫 About Me:
-🔭 I’m currently working on 100 Days of Swift<br>🤝 I’m looking for help with developing app on IOS<br>🌱 I’m currently learning SwiftUI<br>💬 Ask me about my android apps<br>😄 Pronouns: he/him<br>⚡ Fun fact: Cats usually sleep around an average of 15 hours PER day.
+🔭 I’m currently working on Bocianie Gniazda<br>🤝 I’m looking for help with AI models<br>🌱 I’m currently learning AI<br>💬 Ask me about my android apps<br>😄 Pronouns: he/him<br>⚡ Fun fact: Cats usually sleep around an average of 15 hours PER day.
+
+# Przewodnik po repozytoriach
+## Aplikacje mobilne
+- [Parafia w Zakrzewie](https://github.com/Luncenok/Parafia-w-Zakrzewie) - moja druga aplikacja mobilna
+- [Parafia w Wielichowie](https://github.com/Luncenok/parafia-w-wielichowie) - Moja trzecia publiczna aplikacja mobilna
+- [wojbog/apka](https://github.com/wojbog/apka) - moja pierwsza aplikacja na androida
+- [Wulkanowy](https://github.com/wulkanowy/wulkanowy/pulls?q=is%3Apr+author%3ALuncenok+is%3Aclosed) kontrybucje do projektu Wulkanowy
+- [android-interview](https://github.com/Luncenok/android-interview) - projekt aplikacji na rozmowe o prace (udaną)
+- [akai rekrutacja](https://github.com/Luncenok/akai-rekrutacja) - prosty projekcik aplikacji mobilnej rekrutacyjny do koła na politechnice poznańskiej
+## Aplikacje mobilne nauka
+- [ZSK clicker](https://github.com/Luncenok/ZSK_Clicker) - śmieszna testowa apka gra clicker na androida
+- [apka-do-slowek](https://github.com/Luncenok/apka-do-slowek), [test4](https://github.com/Luncenok/test4) (prywatne) - pozostałości z testowania pierwszej mojej aplikacji na androida
+- [100 days of swiftUI](https://github.com/Luncenok/100DaysOfSwiftUI) - niedokończony kurs swifta, 47/100 dni przerobione
+- [ComposeApps](https://github.com/Luncenok/composeApps) - repo z najróżniejszymi aplikacjami compose z kursu googlowego
+- [Dice Roller](https://github.com/Luncenok/DiceRoller), [Color my views](https://github.com/Luncenok/ColorMyViews), [AboutMe](https://github.com/Luncenok/AboutMe) - pozostałości z googlowych kursów codelabow na androida
+## Inne
+- [vulcan-o-bot](https://github.com/Luncenok/vulcan-o-bot) - bot discorda napisany w js pobierający dane z dziennika elektronicznego
+- [zsk](https://github.com/Luncenok/zsk) - różne rzeczy z technikum
+- [PythonProjektNaPP](https://github.com/Luncenok/PythonProjektNaPP) - prosty skrypt w pythonie (technikum)
+
 
 
 ## 🌐 Socials:
