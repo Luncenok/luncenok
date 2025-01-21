@@ -2,6 +2,11 @@
 🔭 I’m currently working on Bocianie Gniazda<br>🤝 I’m looking for help with AI models<br>🌱 I’m currently learning AI<br>💬 Ask me about my android apps<br>😄 Pronouns: he/him<br>⚡ Fun fact: Cats usually sleep around an average of 15 hours PER day.
 
 # Przewodnik po repozytoriach
+## Artificial Intelligence
+- [Among Them](https://github.com/Farmerobot/among_them) - A platform for analyzing and comparing the persuasive capabilities of Large Language Models through simulated social deduction gameplay inspired by Among US
+- [TaxGPT](https://github.com/Farmerobot/TaxGPT) - AI Tax assistant helping to fill polish tax form
+- [Connect4 cv detector](https://github.com/Luncenok/connect4cv) - Computer Vision project - given mp4 detect the state of modified connect4 game (with dice and bench)
+- [Data Mining classes](https://github.com/Luncenok/Data-mining) - repo for DM classes - learning about preprocessing, feature extraction, feature selection, association rules
 ## Aplikacje mobilne
 - [Parafia w Zakrzewie](https://github.com/Luncenok/Parafia-w-Zakrzewie) - moja druga aplikacja mobilna
 - [Parafia w Wielichowie](https://github.com/Luncenok/parafia-w-wielichowie) - Moja trzecia publiczna aplikacja mobilna
