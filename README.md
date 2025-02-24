@@ -1,27 +1,27 @@
 # 💫 About Me:
-🔭 I’m currently working on Bocianie Gniazda<br>🤝 I’m looking for help with AI models<br>🌱 I’m currently learning AI<br>💬 Ask me about my android apps<br>😄 Pronouns: he/him<br>⚡ Fun fact: Cats usually sleep around an average of 15 hours PER day.
+🔭 I’m currently working on [Bocianie Gniazda](https://baza.bocianiegniazda.up.poznan.pl)<br>🤝 I’m looking for help with AI models<br>🌱 I’m currently learning AI<br>💬 Ask me about my android apps<br>😄 Pronouns: he/him<br>⚡ Fun fact: Cats usually sleep around an average of 15 hours PER DAY.
 
-# Przewodnik po repozytoriach
+# Respository Guide
 ## Artificial Intelligence
 - [Among Them](https://github.com/Farmerobot/among_them) - A platform for analyzing and comparing the persuasive capabilities of Large Language Models through simulated social deduction gameplay inspired by Among US
 - [TaxGPT](https://github.com/Farmerobot/TaxGPT) - AI Tax assistant helping to fill polish tax form
 - [Connect4 cv detector](https://github.com/Luncenok/connect4cv) - Computer Vision project - given mp4 detect the state of modified connect4 game (with dice and bench)
 - [Image Inpainting with GANs](https://github.com/Luncenok/cv-inpainting) - Computer Vision project
 - [Data Mining classes](https://github.com/Luncenok/Data-mining) - repo for DM classes - learning about preprocessing, feature extraction, feature selection, association rules
-## Aplikacje mobilne
-- [Parafia w Zakrzewie](https://github.com/Luncenok/Parafia-w-Zakrzewie) - moja druga aplikacja mobilna
-- [Parafia w Wielichowie](https://github.com/Luncenok/parafia-w-wielichowie) - Moja trzecia publiczna aplikacja mobilna
-- [wojbog/apka](https://github.com/wojbog/apka) - moja pierwsza aplikacja na androida
-- [Wulkanowy](https://github.com/wulkanowy/wulkanowy/pulls?q=is%3Apr+author%3ALuncenok+is%3Aclosed) kontrybucje do projektu Wulkanowy
-- [android-interview](https://github.com/Luncenok/android-interview) - projekt aplikacji na rozmowe o prace (udaną)
-- [akai rekrutacja](https://github.com/Luncenok/akai-rekrutacja) - prosty projekcik aplikacji mobilnej rekrutacyjny do koła na politechnice poznańskiej
-## Aplikacje mobilne nauka
+## Mobile apps
+- [Parafia w Zakrzewie](https://github.com/Luncenok/Parafia-w-Zakrzewie) - My second public mobile app for local church
+- [Parafia w Wielichowie](https://github.com/Luncenok/parafia-w-wielichowie) - My third public mobile app for local church
+- [wojbog/apka](https://github.com/wojbog/apka) - My first public mobile app for learning
+- [Wulkanowy](https://github.com/wulkanowy/wulkanowy/pulls?q=is%3Apr+author%3ALuncenok+is%3Aclosed) Contributions for Wulkanowy app for school 
+- [android-interview](https://github.com/Luncenok/android-interview) - Project for interview (successful)
+- [akai rekrutacja](https://github.com/Luncenok/akai-rekrutacja) - simple mobile app project
+## Mobile apps - learning, testing
 - [ZSK clicker](https://github.com/Luncenok/ZSK_Clicker) - śmieszna testowa apka gra clicker na androida
 - [apka-do-slowek](https://github.com/Luncenok/apka-do-slowek), [test4](https://github.com/Luncenok/test4) (prywatne) - pozostałości z testowania pierwszej mojej aplikacji na androida
 - [100 days of swiftUI](https://github.com/Luncenok/100DaysOfSwiftUI) - niedokończony kurs swifta, 47/100 dni przerobione
 - [ComposeApps](https://github.com/Luncenok/composeApps) - repo z najróżniejszymi aplikacjami compose z kursu googlowego
 - [Dice Roller](https://github.com/Luncenok/DiceRoller), [Color my views](https://github.com/Luncenok/ColorMyViews), [AboutMe](https://github.com/Luncenok/AboutMe) - pozostałości z googlowych kursów codelabow na androida
-## Inne
+## Other
 - [vulcan-o-bot](https://github.com/Luncenok/vulcan-o-bot) - bot discorda napisany w js pobierający dane z dziennika elektronicznego
 - [zsk](https://github.com/Luncenok/zsk) - różne rzeczy z technikum
 - [PythonProjektNaPP](https://github.com/Luncenok/PythonProjektNaPP) - prosty skrypt w pythonie (technikum)
