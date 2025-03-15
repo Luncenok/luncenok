@@ -1,5 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on [Bocianie Gniazda](https://baza.bocianiegniazda.up.poznan.pl)<br>🤝 I’m looking for help with AI models<br>🌱 I’m currently learning AI<br>💬 Ask me about my android apps<br>😄 Pronouns: he/him<br>⚡ Fun fact: Cats usually sleep around an average of 15 hours PER DAY.
 
 # Respository Guide
 ## Artificial Intelligence
